@@ -11,7 +11,7 @@
                                 <h5 class="card-title">{{$elem['title']}}</h5>
                                 <p class="card-text ">Nationality: {{$elem['nationality']}}</p>
                                 <p class="card-text">Date: {{$elem['date']}}</p>
-                                <p class="card-text">Date: {{$elem['vote']}}</p>
+                                <p class="card-text">Vote: {{$elem['vote']}}</p>
                             </div>
                         </div>
                     </div>

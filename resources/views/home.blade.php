@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
     <h1 class="text-center">Movies</h1>
-    {{-- insert movies from db --}}
+    
     <div class="container">
         <div class="row">
             @foreach ($table as $elem)
